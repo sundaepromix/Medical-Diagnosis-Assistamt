@@ -222,14 +222,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: [sundaepromix](https://github.com/sundaepromix)
 - **Issues**: [Create an issue](https://github.com/sundaepromix/Medical-Diagnosis-Assistamt/issues)
 
-## Acknowledgments
-
-- Medical professionals who verified data
-- Open-source community contributors
-- Streamlit team for the framework
-- scikit-learn developers
-- Testing and feedback providers
-
 ---
 
 Made with dedication to improving healthcare accessibility 🌟
